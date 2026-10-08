@@ -42,6 +42,12 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Professional Summary
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420px" alt="Developer Live Coding Animation" />
+</div>
+
+<br/>
+
 Full-Stack Developer with **1.5+ years of hands-on experience** architecting and maintaining production-grade web applications. Proficient in **React.js, Node.js, Express.js, Python FastAPI, and MongoDB**, specializing in **REST APIs, JWT authentication, ERP/Tally integrations, OCR document automation, and AI/LLM agent workflows**. Proven track record building high-impact financial platforms, intelligent business dashboards, and SaaS applications.
 
 ```javascript
