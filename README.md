@@ -3,6 +3,12 @@
   <!-- Header Animated Banner with Name & Title -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Aman%20Bhamuriya&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20FastAPI%20%7C%20AI%20Workflows&descAlignY=60&descSize=18&fontColor=ffffff" width="100%"/>
 
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px" />
+    Hi there, I'm <a href="https://github.com/amanverma09">Aman Bhamuriya</a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="32" height="32" />
+  </h1>
+
   <p align="center">
     <a href="https://github.com/amanverma09">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(MERN+%2B+FastAPI);AI+%26+LLM-Powered+App+Architect;ERP+%26+Tally+Integration+Specialist;Building+Scalable+SaaS+%26+Workflow+Automations" alt="Typing SVG" />
@@ -10,9 +16,9 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=amanverma09&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=eye" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-8b5cf6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities%20💼-10b981?style=for-the-badge" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=amanverma09&label=Live%20Profile%20Views&color=0284c7&style=for-the-badge&logo=eye" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years%20⚡-8b5cf6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20💼-10b981?style=for-the-badge" alt="Status" />
   </p>
 
   <p align="center">
@@ -34,7 +40,7 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Professional Summary
 
 Full-Stack Developer with **1.5+ years of hands-on experience** architecting and maintaining production-grade web applications. Proficient in **React.js, Node.js, Express.js, Python FastAPI, and MongoDB**, specializing in **REST APIs, JWT authentication, ERP/Tally integrations, OCR document automation, and AI/LLM agent workflows**. Proven track record building high-impact financial platforms, intelligent business dashboards, and SaaS applications.
 
@@ -42,31 +48,36 @@ Full-Stack Developer with **1.5+ years of hands-on experience** architecting and
 const amanBhamuriya = {
     role: "Full-Stack Developer (MERN + Python FastAPI + AI)",
     experienceYears: "1.5+",
-    location: "Indore, India",
-    availability: "Immediate / Open to Full-Time & Contract Roles",
+    location: "Indore, India 🇮🇳",
+    availability: "Immediate / Open to Full-Time & Contract Roles 🚀",
     coreSkills: {
         frontend: ["React.js", "JavaScript (ES6+)", "TailwindCSS", "HTML5/CSS3", "Vite"],
         backend: ["Node.js", "Express.js", "FastAPI (Python)", "REST APIs"],
         databases: ["MongoDB", "Oracle DB", "PostgreSQL", "SQL"],
         aiStack: ["ChatGPT", "Gemini", "Claude", "Cursor AI", "Antigravity", "Codex", "Meta AI"],
         specializations: [
-            "AI & LLM-Powered Business Agents",
-            "Invoice OCR & Workflow Automation",
-            "Tally ERP Business Intelligence (LiveTally)",
-            "WhatsApp Business API & Third-Party Integrations"
+            "AI & LLM-Powered Business Agents 🤖",
+            "Invoice OCR & Workflow Automation 📄",
+            "Tally ERP Business Intelligence (LiveTally) 📊",
+            "WhatsApp Business API & Third-Party Integrations ⚡"
         ]
     },
     funFact: "Turning complex business workflows into seamless full-stack code ☕⚡"
 };
 ```
 
+- 🔭 **Currently Building:** High-performance Full-Stack platforms & AI Agent workflows
+- 🌱 **Exploring:** Distributed Microservices, Cloud Architecture & Autonomous AI Agents
+- 💬 **Ask me about:** **React.js**, **FastAPI**, **Node.js**, **Tally/ERP Sync**, **MongoDB**, **OCR Pipelines**
+- ⚡ **Superpower:** Rapid prototype-to-production turnaround & clean, modular codebases
+
 ---
 
-### 🛠️ Technical Arsenal & AI Ecosystem
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> Technical Arsenal & AI Ecosystem
 
 <div align="center">
 
-#### 🤖 AI Tools, LLMs & Intelligent IDEs
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="24" height="24" /> AI Tools, LLMs & Intelligent IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
@@ -80,17 +91,17 @@ const amanBhamuriya = {
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
-#### 🌐 Frontend Development
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="24" height="24" /> Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,bootstrap,vite,redux" />
 </p>
 
-#### 🖥️ Backend & APIs
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="24" height="24" /> Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,postman" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="24" height="24" /> Databases & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" />
 </p>
@@ -100,7 +111,7 @@ const amanBhamuriya = {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### ☁️ DevOps, Cloud & Deployment
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="24" height="24" /> DevOps, Cloud & Deployment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode" />
 </p>
@@ -111,7 +122,7 @@ const amanBhamuriya = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-#### 🧩 Enterprise Integrations & Workflows
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="24" height="24" /> Enterprise Integrations & Workflows
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FLLM%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Tally%20%2F%20ERP%20Integration-0284C7?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -124,7 +135,7 @@ const amanBhamuriya = {
 
 ---
 
-### 💼 Work Experience Highlights
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Work Experience Highlights
 
 <details open>
 <summary><b>🔹 MERN Stack Developer | Finbook Advisors LLP</b> <i>(Feb 2026 – Sep 2026)</i></summary>
@@ -161,7 +172,7 @@ const amanBhamuriya = {
 
 ---
 
-### 📊 GitHub Analytics & Streaks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics & Streaks
 
 <div align="center">
 
@@ -180,7 +191,7 @@ const amanBhamuriya = {
 
 ---
 
-### 🎓 Education & Certifications
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> Education & Certifications
 
 - 🎓 **Bachelor of Technology (B.Tech) in Information Technology** — *Swami Vivekanand College of Engineering, Indore* (2020 – 2024) | **7.0 CGPA**
 - 📜 **Certified MERN Full-Stack Developer** — *The Computer Coding Era*
@@ -189,7 +200,7 @@ const amanBhamuriya = {
 
 ---
 
-### 🐍 Contribution Activity Snake
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Contribution Activity Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanverma09/amanverma09/output/github-contribution-grid-snake-dark.svg">
@@ -201,7 +212,7 @@ const amanBhamuriya = {
 
 <div align="center">
 
-  ### 🤝 Let's Connect & Collaborate!
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> Let's Connect & Collaborate!
 
   *"Building scalable software solutions that solve real-world problems."*
 
