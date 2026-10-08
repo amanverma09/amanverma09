@@ -40,14 +40,15 @@ Full-Stack Developer with **1.5+ years of hands-on experience** architecting and
 
 ```javascript
 const amanBhamuriya = {
-    role: "Full-Stack Developer (MERN + Python FastAPI)",
+    role: "Full-Stack Developer (MERN + Python FastAPI + AI)",
     experienceYears: "1.5+",
     location: "Indore, India",
     availability: "Immediate / Open to Full-Time & Contract Roles",
     coreSkills: {
-        frontend: ["React.js", "JavaScript (ES6+)", "TailwindCSS", "HTML5/CSS3"],
+        frontend: ["React.js", "JavaScript (ES6+)", "TailwindCSS", "HTML5/CSS3", "Vite"],
         backend: ["Node.js", "Express.js", "FastAPI (Python)", "REST APIs"],
-        databases: ["MongoDB", "Oracle", "SQL"],
+        databases: ["MongoDB", "Oracle DB", "PostgreSQL", "SQL"],
+        aiStack: ["ChatGPT", "Gemini", "Claude", "Cursor AI", "Antigravity", "Codex", "Meta AI"],
         specializations: [
             "AI & LLM-Powered Business Agents",
             "Invoice OCR & Workflow Automation",
@@ -61,31 +62,56 @@ const amanBhamuriya = {
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal & AI Ecosystem
 
 <div align="center">
 
-#### 🌐 Languages & Frontend
+#### 🤖 AI Tools, LLMs & Intelligent IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,bootstrap,vite" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20AI-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
-#### 🖥️ Backend, AI & Frameworks
+#### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,bootstrap,vite,redux" />
+</p>
+
+#### 🖥️ Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,postman" />
 </p>
 
-#### 🗄️ Databases & Data Storage
+#### 🗄️ Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,oracle" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 #### ☁️ DevOps, Cloud & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-#### 🧩 Integrations & Domains
+#### 🧩 Enterprise Integrations & Workflows
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FLLM%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Tally%20%2F%20ERP%20Integration-0284C7?style=for-the-badge&logo=databricks&logoColor=white" />
