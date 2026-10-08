@@ -1,10 +1,11 @@
 <div align="center">
 
-  # ⚡ Hi there, I'm <a href="https://github.com/amanverma09">Aman Bhamuriya</a> 👋
+  <!-- Header Animated Banner with Name & Title -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Aman%20Bhamuriya&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20FastAPI%20%7C%20AI%20Workflows&descAlignY=60&descSize=18&fontColor=ffffff" width="100%"/>
 
   <p align="center">
     <a href="https://github.com/amanverma09">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(MERN+%2B+FastAPI);AI+%26+LLM-Powered+App+Architect;ERP+%26+Tally+Integration+Specialist;Building+Scalable+SaaS+%26+Workflow+Automations" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(MERN+%2B+FastAPI);AI+%26+LLM-Powered+App+Architect;ERP+%26+Tally+Integration+Specialist;Building+Scalable+SaaS+%26+Workflow+Automations" alt="Typing SVG" />
     </a>
   </p>
 
@@ -24,12 +25,10 @@
     <a href="https://github.com/amanverma09" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="tel:+919752745428" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-%2B91--9752745428-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact" />
+    <a href="https://wa.me/919752745428" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B91--9752745428-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=header"/>
 
 </div>
 
@@ -149,21 +148,8 @@ const amanBhamuriya = {
   <br/><br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma09&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8&bg_color=0D1117" alt="Top Languages" width="49%" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma09&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma09&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8&bg_color=0D1117" alt="Top Languages" width="65%" />
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/amanverma09">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanverma09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
