@@ -22,6 +22,9 @@
   </p>
 
   <p align="center">
+    <a href="https://aman-porfolio-fd5s.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://linkedin.com/in/aman-bhamuriya" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -34,11 +37,6 @@
     <a href="https://wa.me/919752745428" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-%2B91--9752745428-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-  </p>
-
-  <!-- 3D Computer & Flying Tech Stack Hologram Animation -->
-  <p align="center">
-    <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="460px" alt="3D Computer with Flying Tech Stack" style="border-radius: 12px;" />
   </p>
 
 </div>
